@@ -1,0 +1,28 @@
+p{
+    border: 3px solid greenyellow;
+    padding: .5em;
+    padding-left: 10px;
+    margin-right: 40em;
+}
+ul {
+  border: 3px solid palegreen;
+  padding: .5em;
+  padding-left: 10px;
+  margin-right: 3px;
+
+}
+
+.block,
+li {
+  border: 3px solid turquoise;
+  padding: .5em;
+}
+ul{
+	color:blue;
+	border: 2px solid greenyellow;
+	font-weight: bold;
+	margin-right: 60%;
+	margin-left:5%;
+	padding-top: 2px;
+	padding-bottom: 2px
+}
